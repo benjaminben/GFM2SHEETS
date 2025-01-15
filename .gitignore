@@ -1,0 +1,4 @@
+.env
+credentials.json
+*.zip
+.DS_Store
